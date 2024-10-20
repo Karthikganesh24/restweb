@@ -742,7 +742,5 @@ products.html
 ![4](https://github.com/user-attachments/assets/a0a53ce0-4998-4d2c-8323-95d3dda82f8c)
 ![5](https://github.com/user-attachments/assets/a8a170e8-3e13-4655-93c2-a1c0a8885697)
 
-![Uploading 5.png…]()
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
